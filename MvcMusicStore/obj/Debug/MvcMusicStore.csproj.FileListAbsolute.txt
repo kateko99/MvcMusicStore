@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\GISON\Sklep muzyczny\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Lenovo\Desktop\GISON\Sklep muzyczny\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Lenovo\Desktop\GISON\Sklep muzyczny\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\GISON\Sklep muzyczny\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Lenovo\Desktop\GISON\Sklep muzyczny\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
