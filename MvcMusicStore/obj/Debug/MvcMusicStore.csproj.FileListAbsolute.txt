@@ -3,3 +3,5 @@ C:\Users\Lenovo\Desktop\GISON\Sklep muzyczny\MvcMusicStore\MvcMusicStore\bin\Mvc
 C:\Users\Lenovo\Desktop\GISON\Sklep muzyczny\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo\Desktop\GISON\Sklep muzyczny\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 C:\Users\Lenovo\Desktop\GISON\Sklep muzyczny\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Lenovo\Desktop\GISON\Sklep muzyczny\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Lenovo\Desktop\GISON\Sklep muzyczny\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
